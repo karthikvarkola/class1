@@ -6,5 +6,8 @@ Tea
 Coffee
 Chicken fry
 
+pizza
+burger
+
 
 Thank You :)
